@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Event Schema Injector
- * Plugin URI:  https://github.com/yourusername/event-schema-injector
+ * Plugin URI:  https://github.com/capacityinteractivedan/event-schema-injector
  * Description: Automatically injects Schema.org structured data for events based on CSV file data. Perfect for theaters, venues, and event organizers.
  * Version: 2.0.0 (Advanced Grouping)
  * Author:      Daniel Titmuss
